@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming languages, Agile/Scrum and human development in IT
 - 🌱 I’m currently learning how to play the piano
 - 💞️ I’m looking to collaborate on many things related to school work
-- 📫 How to reach me: read the FAQ: https://moodle.inholland.nl/mod/page/view.php?id=1484478
+- 📫 How to reach me: read the FAQ: https://moodle.inholland.nl/mod/page/view.php?id=1540598
 
 <!---
 mrwim/mrwim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
